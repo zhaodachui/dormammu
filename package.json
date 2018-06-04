@@ -1,0 +1,9 @@
+{
+  "name": "dormammu",
+  "version": "0.1.1",
+  "description": "a react-native cli",
+  "main": "index.js",
+  "repository": "https://github.com/zhaodachui/dormammu.git",
+  "author": "zhaohanghang <zhaohanghang001@lianjia.com>",
+  "license": "MIT"
+}
